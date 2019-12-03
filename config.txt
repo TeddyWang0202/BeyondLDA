@@ -1,0 +1,13 @@
+### An environment configuration
+# python: 3.7.3
+# numpy: 1.16.4
+# pandas: 0.24.2
+# csv: 1.0
+# pattern: 3.6
+# pyLDAvis: 2.1.2
+# matplotlib: 3.1.0
+# re: 2.2.1
+# gensim: 3.8.1
+# wordcloud: 1.6.0
+# ipywidgets: 7.5.0
+# IPython: 7.6.1
