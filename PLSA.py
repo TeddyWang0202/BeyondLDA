@@ -38,6 +38,10 @@ class Corpus(object):
     def build_corpus(self):
         """
         Read document, fill in self.documents, a list of list of word
+        **************************************************
+        *** Here assumes the doc is in .txt format and each line represent one document
+        *** If it's not the case, edit this part.
+        **************************************************
         self.documents = [["the", "day", "is", "nice", "the", ...], [], []...]
 
         Update self.number_of_documents
