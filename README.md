@@ -3,7 +3,7 @@ Numpy-based PLSA(plsa.py), LDA vs hLDA and vizualization(LDA_vs.hLDA.ipynb)
 
 ## PLSA(plsa.py)
 **All numpy-based implementation in PLSA**<br/><br/>
-This was when I took Text Mining lecture by UIUC MSCS Dept. _Prof.ChengXiang Zhai_ where we are asked to build the [PLSA](https://arxiv.org/pdf/1301.6705.pdf) model in numpy.
+This was when I took Text Mining lecture by UIUC MSCS Dept. _Prof.ChengXiang Zhai_, where we are asked to build the [PLSA](https://arxiv.org/pdf/1301.6705.pdf) model in numpy.
 PLSA learns both document-topic distribution and topic-word distribution by Bayes inference and optimize the log-likelihood by EM algorithm. The code comments in **plsa.py** includes
 * How to initialized the parameters
 * How to do E-step
