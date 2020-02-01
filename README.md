@@ -1,5 +1,6 @@
 # BeyondLDA
-Numpy-based PLSA(plsa.py), LDA vs hLDA and vizualization(LDA_vs.hLDA.ipynb)
+1. Numpy-based PLSA (Probabilistic Latent Semantic Analysis), **plsa.py**.
+2. LDA (Latent Dirichlet Allocation) vs hLDA (Hierarchical Latent Dirichlet Allocation) and vizualization **LDA_vs.hLDA.ipynb**
 
 ## PLSA(plsa.py)
 **All numpy-based implementation in PLSA**<br/><br/>
